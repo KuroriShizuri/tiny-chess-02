@@ -1,5 +1,9 @@
 # tiny-chess-02 — strongest chess engine in 4 KB Python
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/KuroriShizuri/tiny-chess-02/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/KuroriShizuri/tiny-chess-02/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 A 0x88 negamax + alpha-beta engine with quiescence search, iterative
 deepening, transposition table, null-move pruning, LMR, futility pruning,
 MVV-LVA + killer + check-first move ordering, and a Texel-tuned evaluation.
@@ -48,3 +52,7 @@ MVV-LVA + killer + check-first move ordering, and a Texel-tuned evaluation.
 with `MAKEFUN_ENV_URL` set to the trial env server. The engine plays
 the gauntlet over HTTP (`/game`, `/move`, `/resign`) and exits when
 the trial is done.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d9dj2dyr&utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>

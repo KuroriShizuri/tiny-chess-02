@@ -6,7 +6,7 @@ MVV-LVA + killer + check-first move ordering, and a Texel-tuned evaluation.
 
 ## Files
 
-- `main.py` — the whole engine (3,979 bytes, stdlib only). It is a
+- `main.py` — the whole engine (3,231 bytes, stdlib only). It is a
   lzma + base85 packed payload; the readable source is in the work dir
   (`~/workspace/makefun/work/tiny-chess-02/src.py`) for auditability.
 - `LICENSE` — MIT.
